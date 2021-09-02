@@ -1,4 +1,4 @@
-let numSquares = 100;
+let numSquares = 16;
 
 const sketchContainer = document.getElementById("sketch-container")
 const controlBox = document.getElementById("control-box")
